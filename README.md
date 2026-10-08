@@ -95,6 +95,12 @@
 - [Forvo](https://forvo.com/languages/de/) - Pronunciation guide with native speakers.
 - [Tatoeba](https://tatoeba.org/en/sentences/show_all_in/deu/none) - Example sentences in German with translations.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -103,3 +109,23 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Awesome German](https://github.com/awful-german/awesome-german) - A broader collection of German learning resources.
 - [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) - Curated list of linguistic resources.
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [websites](https://github.com/awesome-german/websites): Trusted websites, online courses, and resources for mastering German from beginner to advanced.
+- [academic-corpora](https://github.com/awesome-german/academic-corpora): Academic texts and linguistic corpora for German language research.
+- [historical-linguistics](https://github.com/awesome-german/historical-linguistics): Resources for studying the evolution of the German language from Old High German to contemporary usage.
+- [news](https://github.com/awesome-german/news): German news outlets, RSS feeds, and current-affairs reading practice tools.
+- [reading](https://github.com/awesome-german/reading): Articles, short stories, and graded reading materials to enhance comprehension and fluency in German.
+
+<!-- END gh-mutual-linking -->

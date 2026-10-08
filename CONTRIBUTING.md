@@ -1,60 +1,19 @@
-# Contributing to Awesome German Web Resources
+# Contributing
 
-Thank you for your interest in contributing to this awesome list!
+Suggestions, corrections and removals are welcome. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Guidelines
+## Adding a resource
 
-1. **Check for duplicates**: Please search existing resources before submitting a new one.
+Search the list first, so the same resource doesn't appear twice. Add one entry to the section where it fits best, in the same format as the entries around it, and link to the official page without tracking or referral parameters. One plain sentence should say what the resource is and who it's for, and mention it if the resource is paid.
 
-2. **Quality over quantity**: Only suggest resources that you have personally used and found valuable.
+## Fixing or removing an entry
 
-3. **One resource per pull request**: This makes it easier to review and discuss each addition.
+Open an issue or a pull request for a broken link, an outdated description, or a resource that no longer fits. If you own a listed resource and want its entry changed or removed, an issue is enough.
 
-4. **Use the following format**: 
-   ```markdown
-   - [Resource Name](https://link-to-resource.com/) - Brief description of what makes it valuable.
-   ```
+## Pull requests
 
-5. **Add resources in alphabetical order** within their category.
+Keep each pull request to one resource or one fix, and check every link you add or change. Edit `README.md` only; maintainers update the translated READMEs where a repository has them.
 
-6. **Check your spelling and grammar**.
+## License
 
-7. **Make sure your text editor is set to remove trailing whitespace**.
-
-8. **Update all language versions**: If you add a resource, please add it to all three README files (English, Japanese, and German) with appropriate translations.
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b add-new-resource`)
-3. Add your resource to the appropriate category in all three README files
-4. Commit your changes (`git commit -m 'Add [Resource Name]'`)
-5. Push to the branch (`git push origin add-new-resource`)
-6. Create a Pull Request
-
-## What to Contribute
-
-We welcome:
-- Online dictionaries and language tools
-- Learning platforms and courses
-- Grammar references and explanations
-- Digital libraries and text archives
-- News and media sources in German
-- Audio and video resources
-- Cultural and academic resources
-- Utilities and tools for German language learning
-
-## What NOT to Contribute
-
-Please avoid:
-- Paid resources without free tiers
-- Resources requiring registration without free access
-- Low-quality or outdated materials
-- Resources not primarily focused on German language or culture
-- Broken or dead links
-
-## Questions?
-
-Feel free to open an issue if you have questions about contributing.
-
-Thank you for helping make this resource better!
+By contributing, you agree that your contribution is licensed under [CC BY 4.0](LICENSE), the same license as the list.
