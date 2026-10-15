@@ -94,6 +94,7 @@
 - [Dict.cc](https://www.dict.cc/) - Collaborative dictionary with extensive vocabulary.
 - [Forvo](https://forvo.com/languages/de/) - Pronunciation guide with native speakers.
 - [Tatoeba](https://tatoeba.org/en/sentences/show_all_in/deu/none) - Example sentences in German with translations.
+- [Umlaut Letters](https://umlautletters.com/) - Copy, paste, and type German umlaut letters (Ä, Ö, Ü, ß); keyboard shortcuts and Unicode/HTML code reference.
 
 ## Disclaimer
 
